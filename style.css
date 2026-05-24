@@ -1,9 +1,0 @@
-
-body{background:#060816;color:white;font-family:Arial;margin:0}
-nav{padding:20px;background:#000;color:#0ff}
-.hero{height:100vh;display:flex;flex-direction:column;justify-content:center;align-items:center;background:#111;text-align:center}
-h1{color:#0ff;font-size:50px}
-.btn{padding:12px 25px;border:2px solid #0ff;color:#0ff;text-decoration:none}
-.cards{display:flex;gap:20px;padding:40px}
-.card{padding:40px;background:#111;border:1px solid #0ff}
-#topBtn{position:fixed;bottom:20px;right:20px}
